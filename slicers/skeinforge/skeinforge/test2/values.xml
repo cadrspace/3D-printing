@@ -1,0 +1,6 @@
+<values>
+<value name="version"
+type="int">1</value>
+<value name="profile"
+type="string">ABS</value>
+</values>

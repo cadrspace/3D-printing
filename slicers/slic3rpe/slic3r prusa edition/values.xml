@@ -1,0 +1,10 @@
+<values>
+<value name="configDir"
+type="string"/>
+<value name="executable"
+type="string">/root/opt/Slic3rPE-1.40.1-rc2+linux64-full-201807031509/slic3r</value>
+<value name="showPlater"
+type="int">0</value>
+<value name="version"
+type="int">4</value>
+</values>

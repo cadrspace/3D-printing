@@ -1,0 +1,10 @@
+<values>
+<value name="version"
+type="int">3</value>
+<value name="executable"
+type="string">/home/cadruser/opt/Slic3r/bin/slic3r</value>
+<value name="showPlater"
+type="int">0</value>
+<value name="configDir"
+type="string">/home/cadruser/opt/Slic3r</value>
+</values>

@@ -1,0 +1,20 @@
+<values>
+<value name="adhesionType"
+type="int">1</value>
+<value name="print"
+type="string">Default</value>
+<value name="filament0"
+type="string"/>
+<value name="quality"
+type="string">681x1SO1uc9bg9Xe4Jcj271lzYJFe50u</value>
+<value name="speed"
+type="string">0</value>
+<value name="cooling"
+type="int">1</value>
+<value name="fillDensity"
+type="string">10</value>
+<value name="supportType"
+type="int">1</value>
+<value name="version"
+type="int">1</value>
+</values>
